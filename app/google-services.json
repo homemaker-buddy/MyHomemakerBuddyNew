@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "83702623575",
+    "firebase_url": "https://myhomemakerbuddynew.firebaseio.com",
+    "project_id": "myhomemakerbuddynew",
+    "storage_bucket": "myhomemakerbuddynew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83702623575:android:520f7a35d92d6b56bd6212",
+        "android_client_info": {
+          "package_name": "com.example.myhomemakerbuddynew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83702623575-0b7p4k8lmo6susdksblddngagd5rtl36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myhomemakerbuddynew",
+            "certificate_hash": "80b20b9adf90f7f596cb1ffd54409005c0de86c7"
+          }
+        },
+        {
+          "client_id": "83702623575-uolp4g1tnu95ourmn9baesi7s0r5c5ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ6vbr26BtMMJIxyCZDKBYYLsBtG94wIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83702623575-uolp4g1tnu95ourmn9baesi7s0r5c5ua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

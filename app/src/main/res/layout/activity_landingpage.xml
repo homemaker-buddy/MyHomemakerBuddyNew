@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LandingPage"
+    android:background="@color/PurpleBackground"
+    >
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:paddingLeft="5dp"
+        android:fontFamily="@font/poppins_bold"
+        android:gravity="center_horizontal"
+        android:text="@string/myhomemaker_buddy"
+        android:textSize="32sp"
+        android:textColor="#FFFFFF"
+        />
+
+    <TextView
+        android:id="@+id/titledesc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/muli_semibold_italic"
+        android:gravity="center_horizontal"
+        android:layout_alignBottom="@id/pic"
+        android:layout_marginBottom="160dp"
+        android:text="@string/a_home_organizer_application"
+        android:textSize="23sp"
+        android:textColor="#FFFFFF"
+        />
+
+    <ImageView
+        android:id="@+id/pic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/descImage"
+        android:src="@drawable/pic" />
+
+    <Button
+        android:id="@+id/getstarted"
+        android:layout_width="226dp"
+        android:layout_height="82dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="-19dp"
+        android:layout_marginBottom="-11dp"
+        android:background="@drawable/button"
+        android:paddingStart="25dp"
+        android:paddingEnd="25dp"
+        android:text="@string/get_started"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:textColor="@color/PurpleBackground"/>
+
+
+</RelativeLayout>

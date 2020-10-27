@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyHomemakerBuddyNew</string>
+    <string name="descImage">Image</string>
+    <string name="myhomemaker_buddy">MyHomemaker Buddy</string>
+    <string name="get_started">Get Started</string>
+    <string name="a_home_organizer_application">A home organizer application</string>
+    <string name="hello_user">Hello User!</string>
+    <string name="Chores">Chores</string>
+    <string name="finance">Finance</string>
+    <string name="cooking">Cooking</string>
+    <string name="upcoming_bills">Upcoming Bills</string>
+    <string name="upcoming_tasks">Upcoming Tasks</string>
+</resources>
